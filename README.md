@@ -107,10 +107,6 @@ The application follows this execution sequence:
 11. Deserialize the saved ticket.
 12. Display the restored ticket details.
 
-### Execution Flowchart
-
-![Smart Parking System Execution Flow](assets/smart-parking-flow.png)
-
 ## ▶️ How to Run the Project
 
 1. Clone or download this repository.
